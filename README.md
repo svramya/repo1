@@ -1,3 +1,3 @@
 # repo1
-this is the main
+this is a main
 this is not a branch
